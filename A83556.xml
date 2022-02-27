@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament, one for the constant recruiting, maintaining, and regulating of the forces of the seven associated counties, under the command of Edward Earle of Manchester. The other, for the regulating the Vniversity of Cambridge, and for removing of scandalous ministers in the seven associated counties. Die Lunæ, 22 Jan. 1643. Ordered by the Lords assembled in Parliament, that these ordinances shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83556</idno>
+            <idno type="STC">Wing E2412</idno>
+            <idno type="STC">Thomason E30_4</idno>
+            <idno type="STC">ESTC R9166</idno>
+            <idno type="EEBO-CITATION">99873484</idno>
+            <idno type="PROQUEST">99873484</idno>
+            <idno type="VID">125960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125960)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E30[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament, one for the constant recruiting, maintaining, and regulating of the forces of the seven associated counties, under the command of Edward Earle of Manchester. The other, for the regulating the Vniversity of Cambridge, and for removing of scandalous ministers in the seven associated counties. Die Lunæ, 22 Jan. 1643. Ordered by the Lords assembled in Parliament, that these ordinances shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 24. 1643. [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>University of Cambridge --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125960:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>TWO ORDINANCES OF THE LORDS and COMMONS Aſſembled in PARLIAMENT, One For the conſtant Recruiting, maintain<g ref="char:EOLhyphen"/>ing, and Regulating of the Forces of the ſeven Aſſociated Counties, under the Command of EDWARD Earle of MANCHESTER.</p>
+            <p>The other, For the Regulating the Vniverſity of <hi>Cambridge,</hi> and for removing of Scandalous Miniſters in the ſeven Aſſociated Counties.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 22 Jan. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords aſsembled in Parliament, that theſe Ordinances ſhall be forthwith Printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-Baily, Jan. 24. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:125960:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:125960:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>An Ordinance of the Lords and Commons aſsembled in Parliament, for the Recruiting, maintein<g ref="char:EOLhyphen"/>ing, and Regulating of the Forces of the ſeven Aſſociated Counties, under the command of <hi>Edward</hi> Earle of <hi>Mancheſter.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 20 Jan. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Counties of <hi>Norffolk, Suffolk, Eſſex,</hi> and the other Aſſociated Counties, out of their loyall reſpect to his Majeſty, their pious diſpo<g ref="char:EOLhyphen"/>ſition to the peace &amp; happines of this Kingdom, in obedience to the orders of Parliament, have rayſed &amp; mainteined, to the number of foureteen thouſand Horſe, Foot, and Dragoons, or thereabouts, And with them, within five months laſt paſt, have done many ſervices againſt the common Enemy, tending much to the ſafety of the King<g ref="char:EOLhyphen"/>dom, &amp; intend to rayſe a far more conſiderable Force, both of Horſe and Foot; And have alſo bought many Armes and Ammunition, and muſt buy more, whereby to furniſh them<g ref="char:EOLhyphen"/>ſelves with a Traine of Artillery, and have beene, and muſt be at great charges in maintaining and Recruiting the ſaid Forces, and in keeping ſeverall Garriſons, making and erecting of Fortifications, Magazines, courts of Guard, and other things requiſite and neceſſary, for the defence and ſafety of the ſaid Aſſociation, againſt the Incurſions of the Enemy. By all which meanes, the ſaid Aſſociation is be<g ref="char:EOLhyphen"/>come much indebted, and without the ſpeedy rayſing of large and conſiderable ſummes of Money, proportionable to their baſt expences, cannot long ſubſiſt in a condition to keepe themſelve from Ruine, and to advance the Publique ſafety.</p>
+            <p>
+               <pb n="2" facs="tcp:125960:3"/>
+               <!-- PDF PAGE 45 -->
+It is thereupon Ordained, by the Lords and Commons in Parliament aſſembled, and by Authority of the ſame, That for the intents and purpoſes aforeſaid, the ſeverall weekely ſummes of Money, hereafter in this Ordinance mentioned, ſhall be Charged, Rated, Taxed, and Levyed upon the ſeverall Counties, according to the Proportions herein expreſſed, the ſame to be payd in weekly to the ſeveral Collectors, and by them to the Treaſurer or Treaſurers appoynted by this Ordinance for the receiving hereof, That is to ſay, upon the County of <hi>Eſſex,</hi> the weekely ſumme of one thouſand ſix hundged eighty ſeven pounds ten ſhillings, upon the County of <hi>Suffolke,</hi> the weekely ſumme of one thouſand eight hundred ſeventy five pounds, upon the Coun<g ref="char:EOLhyphen"/>ty of <hi>Norffolke,</hi> and City of <hi>Norwich,</hi> the weekely ſumme of one thouſand eight hundred ſeventy five pounds, upon the County of <hi>Hartford,</hi> the weekely ſumme of ſix hundred ſeventy five pounds, upon the County of <hi>Cambridge,</hi> the weekly ſum of five hundred ſixty two pounds ten ſhillings, upon the County of <hi>Huntington,</hi> the weekely ſumme of three hundred and thirty pounds, upon the County of <hi>Lincolne,</hi> and City of <hi>Lincolne,</hi> the weekely ſumme of one thouſand two hundred eighteene pounds fifteene ſhillings, and upon the Iſle of <hi>Ely,</hi> the weekely ſumme of two hundred twen<g ref="char:EOLhyphen"/>ty one pounds five ſhillings, And the ſaid weekely pay<g ref="char:EOLhyphen"/>ments are to begin from the firſt day of <hi>January</hi> inſtant; and ſo to continue weekely for foure moneths next enſuing from the ſaid firſt day of <hi>January.</hi>
+            </p>
+            <p>And be it further Ordained, That every perſon or per<g ref="char:EOLhyphen"/>ſons that were to be Aſſeſſed or Taxed, by any former Or<g ref="char:EOLhyphen"/>dinance of Parliament, ſhall be Aſſeſſed and Taxed by this Ordinance, and ſhall be lyable to as great Forfeitures and Penalties, for not paying of the ſumme or ſummes to bee Aſſeſſed, as they ſhould have beene if the ſame had beene Aſſeſſed, by vertue of the laſt Ordinance for the weekely
+<pb n="3" facs="tcp:125960:3"/>
+               <!-- PDF PAGE 45 -->payment for the ſaid Aſſociation made the twentyeth of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> laſt, And the ſeverall and reſpective Deputy Lieu<g ref="char:EOLhyphen"/>tenants and Committees, named and tr<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed within the ſaid Aſſociation, or any part thereof, by the ſaid recited Ordinance, to take care for the Aſſeſſing, Collecting, or Le<g ref="char:EOLhyphen"/>vying of any Monyes, are named and intruſted by this Ordinance, and have as full Power and Authority given them by this Ordinance, to nominate and appoynt Colle<g ref="char:EOLhyphen"/>ctors and Aſſeſſors, and to Diſtreine, Fine, Impriſon, or Sequeſter, as they or any of them had, by vertue of the ſaid recited Ordinance, in all, or any part of the ſaid Aſſociated Counties, And the ſeverall Collectors, ſhall pay the ſever<g ref="char:EOLhyphen"/>all ſummes by them Collected, at the place or ſeverall pla<g ref="char:EOLhyphen"/>ces where the Earle of <hi>Mancheſter,</hi> and the Committee for the Aſſociation attending the ſaid Earle ſhall appoynt, and to the Treaſurer or Treaſurers to be by them named, which Treaſurer or Treaſurers are to Iſſue out the Mo<g ref="char:EOLhyphen"/>nyes received for the purpoſes aforementioned, according to the Warrants or directions of the ſaid Earle of <hi>Manche<g ref="char:EOLhyphen"/>ſter,</hi> and of any two of the ſaid Committees for the ſaid Aſſociation, which ſhall be appoynted thereunto by the ſaid Earle, and a full Committee, conſiſting of one for every County at leaſt and of the Commiſſary Generall, for the time being of the ſaid Earle of <hi>Mancheſter:</hi> And that no Monyes be Iſſued out without Order under the hands of the ſaid Earle, ſuch two of the ſaid Committee and the ſaid Commiſſary Generall, nor yet without the privity of the whole Committee attending the ſaid Earle.</p>
+            <p>And be it further Ordained; That all the Forres rayſed, or to be rayſed, under the command of the ſaid Earle, ſhall be kept intire, and not drawne forth, or kept, or continued forth upon any ſervice, without the knowledge and joynt conſent of the ſaid Earle, and the ſaid Committee while they are together, or of one of them, while they are diſtant
+<pb n="4" facs="tcp:125960:4"/>
+               <!-- PDF PAGE 46 -->one from another, or without particular directions of Par<g ref="char:EOLhyphen"/>liament. And that every Captaine both of Horſe and Foot, and every other Superior or Inferior Officer, or other in the army of the ſaid Earle of <hi>Mancheſter,</hi> or belonging to the ſaid aſſociated Counties, whoſe pay comes to ten ſhill<g ref="char:EOLhyphen"/>ings a day or above, ſhall take but halfe the pay due to him and ſhall reſpit the other halfe upon the Publique Faith, untill theſe unnaturall Warres be ended; And every Officer or other, that is to have five ſhillings a day or above, and under ten ſhillings, ſhall accept of two thirds of the pay due to him, and ſhall reſpit one third part upon the Publique Faith, untill theſe unnaturall Warres ſhall bee ended. And when there is three moneths pay due to any of them, or more, a Certificate thereof from the ſaid Earle, ſuch two of the ſaid Committee and Commiſſary, as may give out Warrants for the Iſſuing out Monyes, ſhall be ſufficient to demand the ſaid Monyes owing upon the Publique Faith as aforeſaid.</p>
+            <p>And be it further Ordained, that all the ſaid Captaines both of Horſe and Foote, are to make good to the ſaid Com<g ref="char:EOLhyphen"/>mittee, all the Horſes and Horſe-Armes, and Foote-Arms, that ſhall be loſt, or imbeazel'd by them, or under their com<g ref="char:EOLhyphen"/>mands, unleſſe they can make it appeare, that they were loſt in ſervice againſt the Enemy, And the ſaid Captaines are enjoyned to give a Liſt under their hands to the ſaid Com<g ref="char:EOLhyphen"/>mittee, for the Aſſociation of all men, horſes, and armes, under their commands, And the ſaid Lords &amp; Commons doe further Ordaine, that all the Moneys collected and not diſpoſed of, or to be Collected upon the fifth and twentieth part of mens eſtates, or of the laſt three, Moneths pay: and all the moneys or other benifit ariſing by vertue of any Or<g ref="char:EOLhyphen"/>dinance, for the third part of the ſequeſtration, ſetled upon the Earle of <hi>Mancheſter,</hi> ſhall be paid unto the Treaſurers appointed as aforeſaid, and from thence to iſſue out againe for the intents and purpoſes aforementioned.</p>
+            <p>
+               <pb n="5" facs="tcp:125960:4"/>
+               <!-- PDF PAGE 46 -->
+And it is likewiſe Ordained, that if any of the ſaid Aſſo<g ref="char:EOLhyphen"/>ciated Forces, have taken, or ſhall take free quarter within the ſaid Aſſociation, every Officer is then to have but one third part of the preſent pay due to him by this Ordi<g ref="char:EOLhyphen"/>nance, for ſo long time as he or they have had, or ſhall have free quarter.</p>
+            <p>And every Common foote Souldier, but halfe pay, &amp; e<g ref="char:EOLhyphen"/>very Common horſeman, or Trooper, foureteene pence a day, and the reſidue of their pay, is to be reſerved for the Pay<g ref="char:EOLhyphen"/>ment of their quarters, and to be imployed for the purpo<g ref="char:EOLhyphen"/>ſes aforementioned; And they further Ordaine, that the ſhall ſend one or two of their Deputy Lieutenants, or Com<g ref="char:EOLhyphen"/>mittees truſted by the Parliament, with the Affaires of the ſaid County and City, to the Committee for the ſaid Aſſoci<g ref="char:EOLhyphen"/>ation to <hi>Cambridge,</hi> who ſhall have hereby equall power with any other of the ſaid Committee at <hi>Cambridge,</hi> while they ſit there, or in any other place; And the ſaid Earle and Committee for the ſaid Aſſociation, have hereby power gi<g ref="char:EOLhyphen"/>ven them to call all Collectors, Treaſurers, or others, that have or are thought to have any of the ſaid monyes in their hands, to an accompt, and to cauſe the ſaid money in their hands to be paid unto the Treaſurers appointed by this Ordinance; And if any Collectors, Treaſurers, or o<g ref="char:EOLhyphen"/>thers, ſhall refuſe to accompt, or to pay in the monyes wherewith they are charged, then the ſaid Earle &amp; Com<g ref="char:EOLhyphen"/>mittee ſhall Fine them double the ſum charged upon them, which if it be not paid within ſix daies after, the ſumme is ſet and notice thereof left at his or their dwelling houſe, It ſhall be lawfull to diſtraine for the ſame, and if there be not ſufficient diſtreſſe wherewith to ſatisfie; Then the ſaid Earle and Committee, may impriſon the offender herein, and ſequeſter his eſtate, untill the money charged, and the Fine ſet, be levied and paid. And it is Ordained, that ſix
+<pb n="6" facs="tcp:125960:5"/>
+               <!-- PDF PAGE 47 -->pence in the pound, ſhall be allowed for every ſumme of mo<g ref="char:EOLhyphen"/>ney, which ſhall be collected and paid to the ſaid Treaſurer, whereof three pence ſhall be for the Collectors, and three pence for the Treaſurer; And the ſaid Treaſurer ſhal keepe a Regiſter Booke, of the ſeveral ſummes received and paid out by them, and ſhall render and accompt thereof, unto the ſaid Earle and Committee, once every Moneth at leaſt.</p>
+            <p>And be it laſtly Ordained, that the ſaid Earle, Deputy Lieutenants, Committees, Collectors, Aſſeſſors, and every one of them, and every other perſon that ſhall be aiding and aſſiſting to them, or any of them, in doing any thing by ver<g ref="char:EOLhyphen"/>tue of this Ordinance, ſhalbe defended and ſaved harmleſſe therein, by authority of both Houſes of Parliament.</p>
+            <closer>
+               <signed>Iohn Browne Cleric, Parl.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="7" facs="tcp:125960:5"/>
+            <!-- PDF PAGE 47 -->
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 22 Ian. 1643.</date>
+               </dateline>
+            </opener>
+            <head>AN Ordinance for Regulating the Vniverſity of CAMBRIDGE, and for removing of Scandalous Miniſters in the ſeven Aſſoci<g ref="char:EOLhyphen"/>ated Counties.</head>
+            <p>WHereas many Complaints are made by the will affected Inhabitants of the Aſſociated Counties of <hi>Eſſex, Norffolk, Suffolk, Hartford, Cambridge, Hunting<g ref="char:EOLhyphen"/>ton,</hi> and <hi>Lincolne;</hi> That the ſervice of the Par<g ref="char:EOLhyphen"/>liament is retarded, the Enemy ſtrengthned, the peoples Soules ſtarved, and their minds diver<g ref="char:EOLhyphen"/>ted from any care of Gods Cauſe, by their idle, ill affected, and ſcandalous Clergy, of the Vni<g ref="char:EOLhyphen"/>verſity of <hi>Cambridge,</hi> and the Aſſociated Coun<g ref="char:EOLhyphen"/>ties; And that many that would give Evidence againſt ſuch ſcandalous Miniſters, are not able to travell to <hi>London,</hi> nor be are the charges of ſuch a Iourney: It is Ordanted by the Lords &amp; Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament, That the Earle of <hi>Mancheſter</hi> ſhall appoynt one or more Com<g ref="char:EOLhyphen"/>mittees in every County, conſiſting of ſuch as have beene nominated Deputy Lieutenants, or
+<pb n="8" facs="tcp:125960:6"/>
+               <!-- PDF PAGE 48 -->Committees by any former Ordinance of Par<g ref="char:EOLhyphen"/>liament, in any of the ſaid Aſſociated Counties, every Committee to conſiſt of ten, whereof any five or more of them, to ſit in any place or places within any the ſaid Aſſociated Counties where the ſaid Earle ſhall appoynt, with power to put in execution theſe Inſtructions following, and in purſuance thereof, to give aſſiſtance to the ſaid Committeés.</p>
+            <p>Firſt, They ſhall have power to call before them, all Provoſts, Maſters, and Fellowes of Colledges, all Students, and Members of the Vniverſity, and all Miniſters in any County of the Aſſociation, and all Schoole-maſters that are ſcandalous in their lives, or ill-affected to the Parliament, or Fomentors of this unnaturall Warre, or that ſhall wilfully refuſe obedience to the Ordinances of Parliament, or that have deſer<g ref="char:EOLhyphen"/>ted their ordinary places of reſidence, not being imployed in the ſervice of the King and Parlia<g ref="char:EOLhyphen"/>ment. And they ſhall have power to ſend for any Witneſſes, and examine any complaint or teſti<g ref="char:EOLhyphen"/>mony againſt them, upon Oathes of ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall and may be produced to give Evidence againſt them, and ſhall certifie their Names with the Charge and Proofes againſt them, to the ſaid Earle of <hi>Mancheſter,</hi> and
+<pb n="9" facs="tcp:125960:6"/>
+               <!-- PDF PAGE 48 -->he ſhall have power to eject ſuch as he ſhall iudge unfit for their Places, and to ſequeſter their Eſtates, Meanes, and Revenues, and to diſpoſe of them as he ſhall thinke fitting, and to place other fitting perſons in their Roome, ſuch as ſhall be approved of by the Aſſembly of Di<g ref="char:EOLhyphen"/>vines fitting at <hi>Weſtminſter.</hi>
+            </p>
+            <p>The Earle of <hi>Mancheſter,</hi> or the ſaid Com<g ref="char:EOLhyphen"/>mittee or Committees ſhall have power to ad<g ref="char:EOLhyphen"/>miniſter the late Covenant taken and to be taken of all the three Kingdoms, of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to all perſons in any of the ſaid Aſſociated Counties, and the Iſie of <hi>Ely,</hi> upon ſuch Penalties as are or ſhall be aſſigned by the Parliament in this behalfe.</p>
+            <p>And be it ordained, That the ſaid Earle of <hi>Mancheſter</hi> ſhall have power to diſpoſe of a fifth part of all ſuch Eſtates as they ſhall ſequeſter, for the benefit of the Wives and Children of any of the aforeſaid perſons.</p>
+            <p>The ſaid Committee or Committees ſhall imploy a Clerke for the regiſtring of all War<g ref="char:EOLhyphen"/>rants, Orders, Summons, and Ejectments made by them: And that they chooſe ſome con<g ref="char:EOLhyphen"/>venient place for the preſerving of the Writings of this Committee.</p>
+            <p>That the ſaid Earle of <hi>Mancheſter</hi> ſhall have
+<pb n="10" facs="tcp:125960:7"/>
+               <!-- PDF PAGE 49 -->power to examine and inhibite all ſuch as doe obſtruct the Reformation now endeavoured by the Parliament and Aſſembly of Divines.</p>
+            <p>And be it further declared, That all ſuch as ſhall doe any thing in execution of this Ordi<g ref="char:EOLhyphen"/>nance, ſhall be kept indempnified by the Autho<g ref="char:EOLhyphen"/>ritie and Power of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And further be it ordeined, That the Earle of <hi>Mancheſter</hi> ſhall have power to appoint a con<g ref="char:EOLhyphen"/>venient number, conſiſting of one or more out of every Countie, one out of the Citie of <hi>Norwich,</hi> and one out of the Countie and Citie of <hi>Lin<g ref="char:EOLhyphen"/>colne:</hi> Provided, that three of theſe be Deputie-Lieutenants to ſit at <hi>Cambridge,</hi> for the better ordering of all Buſineſſes of the Aſſociation, according to Ordinances and Orders of Par<g ref="char:EOLhyphen"/>liament, and according to his Commiſſion granted by his Excellencie the Earle of <hi>Eſſex;</hi> And that the preſent Committee for the Aſſoci<g ref="char:EOLhyphen"/>ation ſitting at <hi>Cambridge,</hi> ſhall ceaſe, when the Earle of <hi>Mancheſter</hi> ſhall have appointed another under his hand and ſeale.</p>
+            <closer>
+               <signed>John Browne Cler. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
